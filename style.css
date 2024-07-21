@@ -184,9 +184,13 @@ span{
     margin-top: 15px;
     border: 1px solid #ddd;
     cursor: pointer;
-
-            border-radius: 5px;
-
+    border-radius: 5px;
+}
+.box:hover{
+    border: 2px solid #000000;
+    position: relative; 
+     top: -10px;
+     transition: 1s;
 }
 .star-rating {
     font-size: 1em;
