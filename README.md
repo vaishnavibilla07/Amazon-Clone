@@ -1,5 +1,7 @@
 # Amazon Clone
 
+##CHECKOUT THE OUTPUT HERE: https://vaishnavibilla07.github.io/Amazon-Clone/
+
 ## Project Description
 
 This project is an Amazon Clone, created to replicate the look and feel of the popular e-commerce website, Amazon. It showcases various product listings with images, descriptions, pricing, and ratings. The clone includes a responsive design, a functional search bar, and a styled footer similar to the original Amazon website.
@@ -22,23 +24,8 @@ This project is an Amazon Clone, created to replicate the look and feel of the p
 - `style.css`: The CSS file for styling the website.
 - `images/`: Directory containing images used in the project (e.g., product images, logo).
 
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Inspired by the design and functionality of the Amazon website.
-- Special thanks to the Motioncut internship program for the opportunity to work on this project.
-
+- Special thanks to the Motioncut internship program for the opportunity to work on this project and also @apnacollege for guiding me throughout.
 
